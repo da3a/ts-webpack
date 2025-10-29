@@ -1,2 +1,2 @@
-Run dev server: npm run serve
+Coding Loft Example: https://www.youtube.com/watch?v=RP8UlRyIH04
 
